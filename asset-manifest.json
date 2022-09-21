@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-project/static/css/main.1ac9c398.css",
+    "main.js": "/portfolio-project/static/js/main.57a18a5f.js",
+    "static/media/intro2.jpg": "/portfolio-project/static/media/intro2.f69ffab5fe8aaa8d4d52.jpg",
+    "static/media/ICHIE-picx-2.jpg": "/portfolio-project/static/media/ICHIE-picx-2.9de6a5cebb6ff9b090a8.jpg",
+    "static/media/IMG-profile-pic.jpg": "/portfolio-project/static/media/IMG-profile-pic.dec755a47b1473b7fd8b.jpg",
+    "static/media/ICHIE-picx.jpg": "/portfolio-project/static/media/ICHIE-picx.20771393cc096799bf91.jpg",
+    "index.html": "/portfolio-project/index.html",
+    "main.1ac9c398.css.map": "/portfolio-project/static/css/main.1ac9c398.css.map",
+    "main.57a18a5f.js.map": "/portfolio-project/static/js/main.57a18a5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac9c398.css",
+    "static/js/main.57a18a5f.js"
+  ]
+}
